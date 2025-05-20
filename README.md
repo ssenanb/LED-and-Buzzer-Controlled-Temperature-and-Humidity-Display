@@ -14,6 +14,10 @@ DHT11 Temperature and Humidity Sensor
 LED
 Buzzer
 
+-> Circuit Installation 
+
+<img src="https://github.com/ssenanb/LED-and-Buzzer-Controlled-Temperature-and-Humidity-Display/blob/main/circuit-installation-2.jpeg?raw=true" alt="Devre Kurulumu 2" width="500"/>
+
 ->Features
 LED Control: Lights up when the temperature is less than or equal to 30°C.
 Buzzer Control: Activates when the humidity is less than or equal to 50%.
